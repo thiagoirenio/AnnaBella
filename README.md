@@ -75,15 +75,11 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
-![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
-![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
+
 
 ### Widget em uma página externa
 
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
+
 
 ---
 
@@ -100,10 +96,7 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+NeoVIM - O melhor editor
 
 ---
 
@@ -114,14 +107,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
-
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Styled-Component](https://styled-components.com/docs)**
+#### **Front-End**  
+HTML5
+CSS3
 
 #### **Prototipação** ([Figma](https://www.figma.com/))
 
-- **[Minha Prototipação](https://www.figma.com/file/J1zv4Q8hCFhxhuZE5XINxu/Prototipa%C3%A7%C3%A3o-desafio-Digitalk?t=9EYQVYnf9XIZWWZr-1)**
+
 
 ---
 
@@ -143,11 +135,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
-Matheus Maia Alvarez</a>
+<a href="https://www.linkedin.com/in/thiago-c-5b539a303">
+Thiago Irênio Caldeira</a>
  <br />
- 
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
 
 ---
 
@@ -158,5 +148,5 @@ Matheus Maia Alvarez</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por Thiago Irênio Caldeira👋🏽 [Entre em contato!](https://www.linkedin.com/in/thiago-c-5b539a303)
 
