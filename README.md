@@ -106,7 +106,7 @@ NeoVIM - O melhor editor
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Front-End**  
-HTML5<br>
+HTML5 <br>
 CSS3
 
 #### **Prototipação** ([Figma](https://www.figma.com/))
