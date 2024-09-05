@@ -1,4 +1,4 @@
-<!-- 
+ <!-- 
 	FIZ UM VÍDEO NO MEU CANAL (), 
  	MOSTRANDO PASSO-A-PASSO DE COMO
   	UTILIZAR ESSA DESCRIÇÃO
@@ -12,7 +12,7 @@
 
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ ProjetoFinalAnnaBella - Concluído ✅🚀
+	  🚀✅  ProjetoFinalAnnaBella - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -47,9 +47,13 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
+<p>
+	<strong>ProjetoFinalAnnaBella</strong> é um projeto criado para o meu aprendizado pessoal.
+</p> 
+<p>
+	O desafio proposto foi criar um <strong>Site de Modedlo</strong>. Neste projeto, usei <strong>Html & Css</strong>
+</p> 
 
-O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -60,8 +64,9 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
-- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
+- [ ] Imagens do site.
+- [ ] Descrição das paginas.
+- [ ] Recursos da pagina.
 
 ---
 
@@ -70,12 +75,24 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
+
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
+<h1>
+	<p align="center">Imagem do site Home</p> 
+	<a href="https://thiagoirenio.github.io/ProjetoFinalAnnaBella/">Home</a><br>
+	<img src="https://thiagoirenio.github.io/ProjetoFinalAnnaBella/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
+	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
+</h1>
 
 
 ### Widget em uma página externa
+<br>
+<p>
+		•🏠<a href="https://thiagoirenio.github.io/ProjetoFinalAnnaBella/">Home</a><br>
+</p>
+
 
 
 
@@ -94,7 +111,7 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
-NeoVIM - O melhor editor
+NeoVIM - Recomento usar também o LazyVim
 
 ---
 
@@ -106,8 +123,8 @@ NeoVIM - O melhor editor
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Front-End**  
-HTML5 <br>
-CSS3
+<b>HTML5</b> <br>
+<b>CSS3</b>
 
 #### **Prototipação** ([Figma](https://www.figma.com/))
 
